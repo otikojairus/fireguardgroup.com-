@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Fire Guard Group">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#081114"/>
+      <stop offset="52%" stop-color="#0d1b1f"/>
+      <stop offset="100%" stop-color="#f6f2ea"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="20%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#ff7a18" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ff7a18" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <ellipse cx="250" cy="110" rx="340" ry="260" fill="url(#glow)"/>
+  <circle cx="1020" cy="120" r="150" fill="#2bb8ad" opacity="0.12"/>
+  <rect x="74" y="74" width="155" height="155" rx="38" fill="#101d20" stroke="rgba(255,255,255,0.12)"/>
+  <path d="M151 102c11 14 20 24 20 39 0 12-6 20-13 27 6-1 11-5 15-10 6 6 10 13 10 22 0 18-14 31-30 31s-30-13-30-31c0-14 9-24 19-31-1 8 2 15 8 21 0-16 3-29 4-42 1-8 1-16 1-26Z" fill="#ff7a18"/>
+  <text x="250" y="165" fill="#f7f3ec" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="800">Fire Guard Group</text>
+  <text x="250" y="240" fill="#c2ccc7" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600">Canada-wide fire safety compliance, inspection, and response</text>
+  <rect x="250" y="310" width="286" height="54" rx="27" fill="#ff7a18"/>
+  <text x="279" y="346" fill="#140c05" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Built for SEO coverage</text>
+  <rect x="548" y="310" width="257" height="54" rx="27" fill="rgba(255,255,255,0.1)"/>
+  <text x="579" y="346" fill="#f7f3ec" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">75 planned pages</text>
+</svg>
